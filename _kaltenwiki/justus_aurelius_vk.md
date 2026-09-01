@@ -11,4 +11,4 @@ Weiterhin betrieb er Nachforschungen um Alexandrien, vermutlich betreffs der [St
 
 ## Dokumente
 
-* [Brief von Äbtissin Elisabeth von Triesen an den Erzbischof von Kaltenstein]({{ "kaltenmedia/BriefAebtissinElisabeth.pdf" | relative_url }})
+* [Brief von Äbtissin Elisabeth von Triesen an den Erzbischof von Kaltenstein, 1653]({{ "kaltenmedia/BriefAebtissinElisabeth.pdf" | relative_url }})
