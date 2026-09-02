@@ -6,9 +6,11 @@ Willkommen im offiziellen Wiki zum Pen&Paper-Setting **Kaltenstein**.
 
 Liste aller Artikel:
 
+<ul>
 {% for x in site.kaltenwiki %}
-* [{{ x.title }}]({{ x.url | relative_url }})
+<li> <a href="{{ x.url | relative_url }}">{{ x.title }}</a> </li>
 {% endfor %}
+</ul>
 
 Styleguide für Mitwirkende:
 * **Fett** ist für Definitionen: Der Begriff, um den es auf der jeweiligen Seite geht; seine Synonyme/Aliase; Unterbegriffe, die auf dieser Seite eingeführt werden.

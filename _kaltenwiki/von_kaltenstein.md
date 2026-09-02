@@ -9,4 +9,5 @@ Die **von-Kaltenstein-Familie**, auch **Haus Kaltenstein**, stellt seit Jahrhund
 
 * Gloria von Kaltenstein
 * [Justus Aurelius von Kaltenstein]({{ "kaltenwiki/justus_aurelius_vk" | relative_url }})
+* Ludwig von Kaltenstein
 * Quirinus von Kaltenstein

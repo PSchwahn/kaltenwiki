@@ -3,7 +3,7 @@ layout: page
 title: Kaltenstein (Staat)
 ---
 
-Das **Großherzugtum Kaltenstein** ist eine Mikronation im Alpenraum Mitteleuropas.
+Das **Großherzogtum Kaltenstein** ist eine Mikronation im Alpenraum Mitteleuropas.
 
 Kaltenstein ist der siebstkleinste Staat der Welt. Laut seiner Verfassung ist es ein Herzogtum, das als konstitutionelle Erbmonarchie auf demokratisch-parlamentarischer Grundlage organisiert ist. Das [Haus Kaltenstein]({{ "kaltenwiki/von_kaltenstein" | relative_url }}) stellt den Großherzog; die Souveranität ist gleichermaßen zwischen Großherzog und Volk geteilt.
 
@@ -19,7 +19,7 @@ Kaltenstein blieb (wie auch die Schweiz) im Ersten und Zweiten Weltkrieg neutral
 
 Die Währung von Kaltenstein sind *Kaltensteiner Kronen* ($$\mathbb{K}$$), obwohl in den meisten Fällen auch Euro akzeptiert werden. Anders als die Schweiz ist Kaltenstein Teil des Europäischen Wirtschaftsraumes.
 
-Seit dem Erfolgs des lokalen Unternehmens [Lang Tech]({{ "kaltenwiki/lang_tech" | relative_url }}) im späten 20. Jhd. gilt Kaltenstein als ein erfolgreicher Industriestandort.
+Seit dem Erfolg des lokalen Unternehmens [Lang Tech]({{ "kaltenwiki/lang_tech" | relative_url }}) im späten 20. Jhd. gilt Kaltenstein als ein erfolgreicher Industriestandort.
 
 ## Religion
 
@@ -38,7 +38,7 @@ In Kaltenstein gibt es zwei Universitäten: die [Justus-Aurelius-von-Kaltenstein
 * Ehem. **Kloster Kaltenstein**: liegt in Kaltenstein-Widdenberg. Der Grund und die historischen Gebäude gehören seit 1654 zur [von-Kaltenstein-Universität]({{ "kaltenwiki/vk_uni" | relative_url }}).
 * **Historische Altstadt**: liegt rund um den Widdenberg und ist weitestgehend erhalten. Dort befinden sich die *Staatsoper Kaltenstein*, das *Historische Museum* sowie die *Eleonora-von-Kaltenstein-Bibliothek*.
 * **Kaltenstein-Neustadt**: beinhaltet den *Lang Tower*, den Campus der [Universität Kaltenstein]({{ "kaltenwiki/uni_kaltenstein" | relative_url }}), das *Ludwig-van-Beethoven-Konzerthaus* und das *Escher-Museum für moderne Kunst und Grafik*.
-
+* **Staatstheater Kaltenstein**: gegründet von [Ludwig von Kaltenstein]({{ "kaltenwiki/von_kaltenstein" | relative_url }}).
 
 ## Dokumente
 

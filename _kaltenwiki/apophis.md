@@ -9,4 +9,4 @@ title: Apophis
 
 * Die [Tafel der Schlange]({{ "kaltenwiki/steintafeln" | relative_url }})
 * Das [Buch des Apophis]({{ "kaltenwiki/buch_des_apophis" | relative_url }})
-* Die Uhr
+* Die [alte Taschenuhr]({{ "kaltenwiki/uhr" | relative_url }})
