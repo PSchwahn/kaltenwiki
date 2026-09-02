@@ -3,7 +3,7 @@ layout: page
 title: Maria Lamellicornia
 ---
 
-**Maria Lamellicornia** ist eine wissenschaftliche Mitarbeiterin an der biologischen Fakultät der [Universität Kaltenstein]({{ "kaltenwiki/uni_kaltenstein" | relative_url }}). Ihr Forschungsgebiet ist die Entomologie.
+**Maria Lamellicornia** ist eine wissenschaftliche Mitarbeiterin an der biologischen Fakultät der [von-Kaltenstein-Universität]({{ "kaltenwiki/vk_uni" | relative_url }}). Ihr Forschungsgebiet ist die Entomologie.
 
 Ihr Busenfreund **Bobo** ist ein Affe unbekannter Spezies, welcher in seinen Gesichtszügen eine gewissen Ähnlichkeit mit *Komissar Peterle* (Polizei Kaltenstein) aufweist.
 
