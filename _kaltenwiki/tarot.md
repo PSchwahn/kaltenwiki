@@ -14,9 +14,23 @@ Das **Kaltensteiner Tarot** ist eine lokale Variation des verbreiteten Tarot-Spi
 
 Die vier mit einem Asterisk versehenen Figuren-Karten ergeben jeweils auf den Kopf gedreht die geschlechtlich andere Version.
 
+Innerhalb jedes Elements gibt es je eine Karte der Kategorien *Figur*, *Gestirn*, *Tier*, *Gegenstand* und *Konzept*.
+
 ## Die verlorenen Arkana
 
 Es fehlen die Zahlen III, VIII, XIII, XVIII und XXIII. Daher wird oft spekuliert, es gäbe *verbotene* oder *verlorene Arkana*.
+
+Bezeichnet man die Elemente mit den Zahlen 1, 2, 4 und 5, sowie die Kategorien mit den Zahlen 1 bis 5, dann sind die bekannten Arkana konsistent mit folgender Regel:
+
+> Die Karte mit Element $$e$$ und Kategorie $$k$$ hat Nummer $$e+5(k-e)\mod25$$.
+
+Vor dem Hintergrund des [Apophis-Kultes]({{ "kaltenwiki/apophis" | relative_url }}) wird demnach vermutet, dass die verlorenen Arkana ($$e=3$$) wie folgt lauten:
+
+* Tier $$\to$$ III Schlange
+* Gegenstand $$\to$$ VIII ?
+* Konzept $$\to$$ XIII ?
+* Figur $$\to$$ XVIII ?
+* Gestirn $$\to$$ XXIII Leere, Komet, Mondfinsternis?
 
 ## Weltliches
 
