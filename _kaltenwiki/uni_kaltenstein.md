@@ -3,9 +3,9 @@ layout: page
 title: Staatliche Universität Kaltenstein
 ---
 
-Die **Staatliche Universität Kaltenstein**, auch **Universität Kaltenstein** ist eine in [Kaltenstein]({{ "kaltenwiki/kaltenstein" | relative_url }}) ansässige Universität. Sie wurde im frühen 20. Jhd. von [Helena Prekrasnaya]({{ "kaltenwiki/prekrasnaya" | relative_url }}) gegründet.
+Die **Staatliche Universität Kaltenstein**, auch **Universität Kaltenstein** ist eine in [Kaltenstein]({{ "kaltenwiki/kaltenstein" | relative_url }}) ansässige Universität. Sie wurde im 20. Jhd. von [Helena Prekrasnaya]({{ "kaltenwiki/prekrasnaya" | relative_url }}) gegründet.
 
-Die Universität Kaltenstein ist jünger und größer als die [von-Kaltenstein-Universität]({{ "kaltenwiki/vk_uni" | relative_url }}) und bietet ein anwendungsorientiertes naturwissenschaftlich-technisches Profil an. Ihr Campus befindet sich in *Kaltenstein-Neustadt*.
+Die Universität Kaltenstein ist größer als die [von-Kaltenstein-Universität]({{ "kaltenwiki/vk_uni" | relative_url }}) und bietet ein anwendungsorientiertes naturwissenschaftlich-technisches Profil an. Ihr Campus befindet sich in *Kaltenstein-Neustadt*.
 
 Es existeren verschiedene Kooperationen zwischen der Universität Kaltenstein und [Lang Tech]({{ "kaltenwiki/lang_tech" | relative_url }}) -- letztere stellen sowohl technische Ausstattung als auch Stipendien zur Verfügung.
 

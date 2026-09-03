@@ -24,13 +24,13 @@ Bezeichnet man die Elemente mit den Zahlen 1, 2, 4 und 5, sowie die Kategorien m
 
 > Die Karte mit Element $$e$$ und Kategorie $$k$$ hat Nummer $$e+5(k-e)\mod25$$.
 
-Vor dem Hintergrund des [Apophis-Kultes]({{ "kaltenwiki/apophis" | relative_url }}) wird demnach vermutet, dass die verlorenen Arkana ($$e=3$$) wie folgt lauten:
+Vor dem Hintergrund des [Apophis-Kultes]({{ "kaltenwiki/apophis" | relative_url }}) und der *Athena-Nike-Divination* wird demnach vermutet, dass die verlorenen Arkana (Element $$e=3$$) wie folgt lauten:
 
 * Tier $$\to$$ III Schlange
-* Gegenstand $$\to$$ VIII ?
+* Gegenstand $$\to$$ VIII Uhr
 * Konzept $$\to$$ XIII ?
-* Figur $$\to$$ XVIII ?
-* Gestirn $$\to$$ XXIII Leere, Komet, Mondfinsternis?
+* Figur $$\to$$ XVIII Eremit
+* Gestirn $$\to$$ XXIII Leere, Komet, Finsternis?
 
 ## Weltliches
 
