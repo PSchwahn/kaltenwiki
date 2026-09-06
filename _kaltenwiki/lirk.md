@@ -19,4 +19,4 @@ Nach dem Anschlag wurde polizeilich nach ihm gefahndet und er tauchte unter dem 
 
 ## Traumreisen
 
-Lirk Denz ist durch Traumsequenzen mit *Perchon Age* (37 v. Chr.), *Lennis Denz* (1772) und *Warl Kesnov* (1982) verbunden.
+Lirk Denz ist durch Traumsequenzen mit *Perchon Age* (Πηρχων Ἄγή, 37 v. Chr.), *Lennis Denz* (1772) und *Warl Kesnov* (1982) verbunden.

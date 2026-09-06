@@ -11,4 +11,4 @@ Nach Una-Vaders kürzlichem Tod ging aus ihrem Testament hervor, dass sie [There
 
 ## Traumreisen
 
-Sharon Una-Vader ist durch Traumsequenzen mit *Diospyra* (37 v. Chr., mutmaßlich) und *?* (1772) verbunden.
+Sharon Una-Vader ist durch Traumsequenzen mit *Diospyra* (Διόσπυρα, 37 v. Chr., mutmaßlich) und *?* (1772) verbunden.

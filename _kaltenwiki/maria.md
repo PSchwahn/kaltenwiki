@@ -9,4 +9,4 @@ Ihr Busenfreund **Bobo** ist ein Affe unbekannter Spezies, welcher in seinen Ges
 
 ## Traumreisen
 
-Maria Lamellicornia ist durch Traumsequenzen mit *Koleoptera* (37 v. Chr.), *?* (1772) und *Marta Schukowa* (1982) verbunden.
+Maria Lamellicornia ist durch Traumsequenzen mit *Koleoptera* (Κολεόπτερα, 37 v. Chr.), *?* (1772) und *Marta Schukowa* (1982) verbunden.
