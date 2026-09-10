@@ -38,7 +38,8 @@ In Kaltenstein gibt es zwei Universitäten: die [Justus-Aurelius-von-Kaltenstein
 * Ehem. **Kloster Kaltenstein**: liegt in Kaltenstein-Widdenberg. Der Grund und die historischen Gebäude gehören seit 1654 zur [von-Kaltenstein-Universität]({{ "kaltenwiki/vk_uni" | relative_url }}).
 * **Historische Altstadt**: liegt rund um den Widdenberg und ist weitestgehend erhalten. Dort befinden sich die *Staatsoper Kaltenstein*, das *Historische Museum* sowie die *Eleonora-von-Kaltenstein-Bibliothek*.
 * **Kaltenstein-Neustadt**: beinhaltet den *Lang Tower*, den Campus der [Universität Kaltenstein]({{ "kaltenwiki/uni_kaltenstein" | relative_url }}), das *Ludwig-van-Beethoven-Konzerthaus* und das *Escher-Museum für moderne Kunst und Grafik*.
-* **Staatstheater Kaltenstein**: gegründet von [Ludwig von Kaltenstein]({{ "kaltenwiki/von_kaltenstein" | relative_url }}).
+* **Kaltenstein-Theater**: erbaut 1772 im Auftrag von [Ludwig von Kaltenstein]({{ "kaltenwiki/von_kaltenstein" | relative_url }}). Berühmt für seine von *Maia Schneider* erfundenen mechanischen Puppen.
+* **Staatstheater Kaltenstein**: ein anderes Theater.
 
 ## Dokumente
 

@@ -3,7 +3,7 @@ layout: page
 title: Frederica Lounds
 ---
 
-**Frederica "Freddie" Lounds** ist eine in [Kaltenstein]({{ "kaltenwiki/kaltenstein" | relative_url }}) wohnhafte Journalistin.
+**Frederica "Freddie" Lounds**, auch **Frederika Launce** ist eine in [Kaltenstein]({{ "kaltenwiki/kaltenstein" | relative_url }}) wohnhafte Journalistin für das lokale Tagesblatt *Morgenstein*.
 
 Sie ist Trägerin des *Schwarzen Bauern*.
 
