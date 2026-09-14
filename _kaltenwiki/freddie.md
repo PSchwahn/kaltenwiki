@@ -17,7 +17,7 @@ Nach dem Anschlag auf die [Detektei Denz]({{ "kaltenwiki/lirk" | relative_url }}
 
 ## Traumreisen
 
-Frederica Lounds ist durch Traumsequenzen mit *Eirini Pallas* (Ἐιρήνη Παλλάς, 37 v. Chr.), *?* (1772) und *Peshka Wolkow* (1982) verbunden.
+Frederica Lounds ist durch Traumsequenzen mit *Eirini Pallas* (Ἐιρήνη Παλλάς, 37 v. Chr.), *Derek Lounds* (1772) und *Peshka Wolkow* (1982) verbunden.
 
 ## Dokumente
 

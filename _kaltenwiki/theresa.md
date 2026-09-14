@@ -13,4 +13,4 @@ Taylor ist die Erbin von [Sharon Una-Vader]({{ "kaltenwiki/sharon" | relative_ur
 
 ## Traumreisen
 
-Theresa Taylor ist durch Traumsequenzen mit *Elaia Kayma Galatia* (Ἐλάια Καύμα Γαλατία, 37 v. Chr.), *?* (1772) und *Tatjana Xenia Trawnikowa* (1982) verbunden.
+Theresa Taylor ist durch Traumsequenzen mit *Elaia Kayma Galatia* (Ἐλάια Καύμα Γαλατία, 37 v. Chr.), *Daria Schneider* (1772) und *Tatjana Xenia Trawnikowa* (1982) verbunden.
