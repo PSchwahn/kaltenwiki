@@ -11,6 +11,8 @@ Taylor genießt Privatunterricht anstelle einer normalen Schulbildung, wodurch s
 
 Taylor ist die Erbin von [Sharon Una-Vader]({{ "kaltenwiki/sharon" | relative_url }}), welche bis zu ihrem Tod Theresas Kindermädchen war.
 
+Ihre Mutter Tatyana war in der 80er-Jahren Agentin des KGB. In der Gegenwart wurde sie von Leuten mit Schlangentattoos entführt.
+
 ## Traumreisen
 
-Theresa Taylor ist durch Traumsequenzen mit *Elaia Kayma Galatia* (Ἐλάια Καύμα Γαλατία, 37 v. Chr.), *Daria Schneider* (1772) und *Tatjana Xenia Trawnikowa* (1982) verbunden.
+Theresa Taylor ist durch Traumsequenzen mit *Elaia Kayma Galatia* (Ἐλάια Καΰμα Γαλατία, 37 v. Chr.), *Daria Schneider* (1772) und *Tatjana Xenia Trawnikowa* (1982) verbunden.

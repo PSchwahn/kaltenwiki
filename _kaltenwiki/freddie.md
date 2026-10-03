@@ -7,7 +7,7 @@ title: Frederica Lounds
 
 Sie ist Trägerin des *Schwarzen Bauern*.
 
-Lounds' Kusine **Angelika Kurz** war Archäologin und an den Ausgrabungen um den *Stein von Sora* in Italien beteiligt. Vor Kurzem ist sie unter verdächtigen Umständen ums Leben gekommen.
+Lounds' Kusine **Angelika Kurz** war Archäologin und an den Ausgrabungen um den [Stein von Sora]({{ "kaltenwiki/steintafeln" | relative_url }}) in Italien beteiligt. Vor Kurzem ist sie unter verdächtigen Umständen ums Leben gekommen.
 
 ## Lebenslauf
 

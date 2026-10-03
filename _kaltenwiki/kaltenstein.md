@@ -3,11 +3,11 @@ layout: page
 title: Kaltenstein (Staat)
 ---
 
-Das **Großherzogtum Kaltenstein** ist eine Mikronation im Alpenraum Mitteleuropas.
+Das **Großherzogtum Kaltenstein** ist eine Mikronation im Alpenraum Mitteleuropas. Es grenzt im Westen an die Schweiz und im Osten an Österreich an.
 
 Kaltenstein ist der siebstkleinste Staat der Welt. Laut seiner Verfassung ist es ein Herzogtum, das als konstitutionelle Erbmonarchie auf demokratisch-parlamentarischer Grundlage organisiert ist. Das [Haus Kaltenstein]({{ "kaltenwiki/von_kaltenstein" | relative_url }}) stellt den Großherzog; die Souveranität ist gleichermaßen zwischen Großherzog und Volk geteilt.
 
-Hauptstadt von Kaltenstein ist die gleichnamige *Stadt Kaltenstein*, welche sowohl nach Fläche als auch Einwohnerzahl die größte Stadt des Herzogtums ist. Weitere Städte sind *Uringen* und *St. Innozenz*.
+Hauptstadt von Kaltenstein ist die gleichnamige *Stadt Kaltenstein*, welche sowohl nach Fläche als auch Einwohnerzahl die größte Stadt des Herzogtums ist. Weitere Städte sind *Uringen* und *St. Innozenz*. Außerdem gibt es einige Dörfer, wie zum Beispiel *Kuhdorf*.
 
 ## Geschichte
 
