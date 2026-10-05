@@ -28,7 +28,7 @@ Vor dem Hintergrund des [Apophis-Kultes]({{ "kaltenwiki/apophis" | relative_url 
 
 * Tier $$\to$$ III Schlange
 * Gegenstand $$\to$$ VIII Uhr
-* Konzept $$\to$$ XIII ?
+* Konzept $$\to$$ XIII Tod
 * Figur $$\to$$ XVIII Eremit
 * Gestirn $$\to$$ XXIII Leere, Komet, Finsternis?
 
