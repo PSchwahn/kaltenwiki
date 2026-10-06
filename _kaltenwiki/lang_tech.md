@@ -15,4 +15,4 @@ Lang Tech führt verschiedene Kooperationen mit der [Universität Kaltenstein]({
 * **Lang Tidal GmbH** (Entwicklung von Gezeitenkraftwerken)
 * **Lang Crypta** (Grundlagenforschung Informatik)
 * **Lang Quanta** (Grundlagenforschung Teilchenphysik)
-* **Lang Helix** (Grundlagenforschung Biochemie)
+* [Lang Helix]({{ "kaltenwiki/lang_helix" | relative_url }}) (Grundlagenforschung Biochemie)

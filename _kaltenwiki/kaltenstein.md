@@ -40,6 +40,7 @@ In Kaltenstein gibt es zwei Universitäten: die [Justus-Aurelius-von-Kaltenstein
 * **Historische Altstadt**: liegt rund um den Widdenberg und ist weitestgehend erhalten. Dort befinden sich die *Staatsoper Kaltenstein*, das *Historische Museum* sowie die *Eleonora-von-Kaltenstein-Bibliothek*.
 * **Kaltenstein-Neustadt**: beinhaltet den *Lang Tower*, den Campus der [Universität Kaltenstein]({{ "kaltenwiki/uni_kaltenstein" | relative_url }}), das *Ludwig-van-Beethoven-Konzerthaus* und das *Escher-Museum für moderne Kunst und Grafik*.
 * Das [Staatstheater Kaltenstein]({{ "kaltenwiki/staatstheater" | relative_url }}).
+* **Kaltentopf**: zentral gelegener See.
 
 ## Dokumente
 
