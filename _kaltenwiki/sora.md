@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Dominikus von Sora
+person: true
+name: sora
 ---
 
 **Dominikus von Sora** war ein lokaler Heiliger in den Abruzzen. Zu Lebzeiten war er ein Bekannter von [Quirinus von Kaltenstein]({{ "kaltenwiki/von_kaltenstein" | relative_url}}).

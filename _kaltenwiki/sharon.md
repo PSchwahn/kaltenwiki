@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Sharon Una-Vader
+person: true
+name: una vader
 ---
 
 **Sharon Una-Vader** war eine in [Kaltenstein]({{ "kaltenwiki/kaltenstein" | relative_url }}) wohnhafte Rentnerin, die zeitweise als von *Familie Taylor* angestelltes Kindermädchen für [Theresa]({{ "kaltenwiki/theresa" | relative_url }}) arbeitete. Una-Vader war gleichzeitig die Vermieterin von [Lirk Denz]({{ "kaltenwiki/lirk" | relative_url }}), mit dem sie ein Haus teilte.

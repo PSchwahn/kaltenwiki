@@ -1,11 +1,13 @@
 ---
 layout: page
 title: Maria Lamellicornia
+person: true
+name: lamellicornia
 ---
 
-**Maria Lamellicornia** ist eine Entomologin und Arbeitsgruppenleiterin am 2. Biologischen Institut der [von-Kaltenstein-Universität]({{ "kaltenwiki/vk_uni" | relative_url }}).
+Dr. **Maria Lamellicornia** ist eine Entomologin und Arbeitsgruppenleiterin am 2. Biologischen Institut der [von-Kaltenstein-Universität]({{ "kaltenwiki/vk_uni" | relative_url }}).
 
-Ihr Busenfreund **Bobo** ist ein Südlicher Großflugbeutler, welcher in seinen Gesichtszügen eine gewissen Ähnlichkeit mit *Komissar Peterle* (Polizei Kaltenstein) aufweist.
+Ihr Busenfreund **Bobo** ist ein Südlicher Großflugbeutler, welcher in seinen Gesichtszügen eine gewissen Ähnlichkeit mit *Kommissar Peterle* (Polizei Kaltenstein) aufweist.
 
 ## Traumreisen
 

@@ -2,13 +2,46 @@
 layout: default
 ---
 
+{% assign articles = site.kaltenwiki | sort: "title" %}
+{% assign people = site.kaltenwiki | where: "person", "true" | sort: "name" %}
+
 Willkommen im offiziellen Wiki zum Pen&Paper-Setting **Kaltenstein**.
 
-Liste aller Artikel:
+Personen:
 
 <ul>
-{% for x in site.kaltenwiki %}
+{% for x in people %}
 <li> <a href="{{ x.url | relative_url }}">{{ x.title }}</a> </li>
+{% endfor %}
+</ul>
+
+Institutionen:
+
+<ul>
+{% for x in articles %}
+{% if x.institution %}
+<li> <a href="{{ x.url | relative_url }}">{{ x.title }}</a> </li>
+{% endif %}
+{% endfor %}
+</ul>
+
+Orte: 
+
+<ul>
+{% for x in articles %}
+{% if x.place %}
+<li> <a href="{{ x.url | relative_url }}">{{ x.title }}</a> </li>
+{% endif %}
+{% endfor %}
+</ul>
+
+Andere:
+
+<ul>
+{% for x in articles %}
+{% unless x.person or x.institution or x.place %}
+<li> <a href="{{ x.url | relative_url }}">{{ x.title }}</a> </li>
+{% endunless %}
 {% endfor %}
 </ul>
 

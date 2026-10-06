@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Kaltenstein (Staat)
+place: true
 ---
 
 Das **Großherzogtum Kaltenstein** ist eine Mikronation im Alpenraum Mitteleuropas. Es grenzt im Westen an die Schweiz und im Osten an Österreich an.

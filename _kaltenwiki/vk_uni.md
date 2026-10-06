@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Justus-Aurelius-von-Kaltenstein-Universität
+institution: true
 ---
 
 Die **Justus-Aurelius-von-Kaltenstein-Universität**, auch **von-Kaltenstein-Universität** ist eine in [Kaltenstein]({{ "kaltenwiki/kaltenstein" | relative_url }}) ansässige Universität. Sie wurde 1654 von [Justus Aurelius von Kaltenstein]({{ "kaltenwiki/justus_aurelius_vk" | relative_url }}) auf dem Grund des dortigen Klosters (*Kloster Kaltenstein*, 1267--1654) gegründet.

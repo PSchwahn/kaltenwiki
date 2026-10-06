@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Staatliche Universität Kaltenstein
+institution: true
 ---
 
 Die **Staatliche Universität Kaltenstein**, auch **Universität Kaltenstein** ist eine in [Kaltenstein]({{ "kaltenwiki/kaltenstein" | relative_url }}) ansässige Universität. Sie wurde 1923 von [Helena Prekrasnaya]({{ "kaltenwiki/prekrasnaya" | relative_url }}) gegründet.

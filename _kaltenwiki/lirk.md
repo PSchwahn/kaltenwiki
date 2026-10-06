@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Lirk Denz
+person: true
+name: denz
 ---
 
 **Lirk Denz** ist ein in [Kaltenstein]({{ "kaltenwiki/kaltenstein" | relative_url }}) ansässiger Privatdetektiv. Er ist Inhaber und alleiniger Mitarbeiter der *Detektei Denz: Angewandte Erkenntnistheorie*, die ihre Geschäftsstelle im *Kalten-Center* hatte. Vor Kurzem wurde diese bei einem Sprengstoffanschlag zerstört.

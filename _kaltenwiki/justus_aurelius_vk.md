@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Justus Aurelius von Kaltenstein
+person: true
+name: kaltenstein justus
 ---
 
 **Justus Aurelius von Kaltenstein** war im 17. Jhd. Großherzog von [Kaltenstein]({{ "kaltenwiki/kaltenstein" | relative_url }}). Er ist bekannt als der Gründer der [von-Kaltenstein-Universität]({{ "kaltenwiki/vk_uni" | relative_url }}).

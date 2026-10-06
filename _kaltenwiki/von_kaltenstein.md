@@ -1,6 +1,8 @@
 ---
 layout: page
 title: von Kaltenstein (Dynastie)
+person: true
+name: kaltenstein
 ---
 
 Die **von-Kaltenstein-Familie**, auch **Haus Kaltenstein**, stellt seit Jahrhunderten die Großherzöge von [Kaltenstein]({{ "kaltenwiki/kaltenstein" | relative_url }}).

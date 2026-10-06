@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Staatstheater Kaltenstein
+place: true
 ---
 
 Das **Staatstheater Kaltenstein** wurde 1772 im Auftrag von [Ludwig von Kaltenstein]({{ "kaltenwiki/von_kaltenstein" | relative_url }}) erbaut. Es ist berühmt für seine von *Maia Schneider* erfundenen mechanischen Puppen, welche mittels Lochkarten programmiert werden können.
@@ -21,7 +22,7 @@ Unter den Gästen befanden sich auch [Lirk Denz]({{ "kaltenwiki/lirk" | relative
 
 In der zweiten Hälfte kam es zu einem von Marie Bertrand inszenierten dramatischen Zwischenfall, welcher Aufmerksamkeit auf den Tod ihres Mannes Georg Schönsicht lenken sollte.
 
-Der Versuch von Jan Paul Schneider, Frau Wasserteich ans Zahnrad zu fesseln und damit an [Apophis]({{ "kaltenwiki/apophis" | relative_url }}) zu opfern, kann vereitelt werden.
+Der Versuch von Jan Paul Schneider, Frau Wasserteich ans Zahnrad zu fesseln und damit an [Apophis]({{ "kaltenwiki/apophis" | relative_url }}) zu opfern, konnte vereitelt werden.
 
 ## Dokumente
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Prekrasnaya-Institut
+place: true
 ---
 
 Das **Prekrasnaya-Institut** ist ein physikalisches Institut an der [Staatlichen Universität Kaltenstein]({{ "kaltenwiki/uni_kaltenstein" | relative_url }}). Es ist benannt nach [Helena Prekrasnaya]({{ "kaltenwiki/prekrasnaya" | relative_url }}).

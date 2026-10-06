@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Theresa Natasha Taylor
+person: true
+name: taylor theresa
 ---
 
 **Theresa Natasha Taylor** ist die Tochter und das einzige Kind von *Jonathan "Jo" Taylor* und *Tatyana Xenia "Tanya" Trawnikowa*. Sie lebt im *Taylor-Anwesen* in [Kaltenstein]({{ "kaltenwiki/kaltenstein" | relative_url }}) und ist zum Zeitpunkt der Handlung zwölf Jahre alt.

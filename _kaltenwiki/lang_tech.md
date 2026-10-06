@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Lang Tech GmbH
+institution: true
 ---
 
 Die **Lang Tech GmbH** ist ein in [Kaltenstein]({{ "kaltenwiki/kaltenstein" | relative_url }}) ansässiges Technologieunternehmen. Seit dem späten 20. Jhd. gilt es als einer der Weltmarktführer im Bereich Spitzentechnologie.
