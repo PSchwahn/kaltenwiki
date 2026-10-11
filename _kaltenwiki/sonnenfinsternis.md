@@ -15,6 +15,6 @@ Antipodale Sonnenfinsternisse wurden unter anderem von [Quirinus von Kaltenstein
 * Kaltenstein, 1002 (Lebzeit von [Quirinus von Kaltenstein]({{ "kaltenwiki/von_kaltenstein" | relative_url}}) und [Dominikus von Sora]({{ "kaltenwiki/sora" | relative_url }}))
 * Kaltenstein, 1653 (Lebzeit von [Justus Aurelius von Kaltenstein]({{ "kaltenwiki/justus_aurelius_vk" | relative_url }}))
 * Kaltenstein, 1772 (Lebzeit von [Ludwig von Kaltenstein]({{ "kaltenwiki/von_kaltenstein" | relative_url}}) und *Maia Schneider*)
-* Kaltenstein, 1982 (Lebzeit von [Gloria von Kaltenstein]({{ "kaltenwiki/von_kaltenstein" | relative_url}}))
 * Kaltenstein, 1922 (Lebzeit von [Helena Prekrasnaya]({{ "kaltenwiki/prekrasnaya" | relative_url }}))
+* Kaltenstein, 1982 (Lebzeit von [Gloria von Kaltenstein]({{ "kaltenwiki/von_kaltenstein" | relative_url}}))
 * Kaltenstein, 31.10.2022 (nahe Zukunft)
