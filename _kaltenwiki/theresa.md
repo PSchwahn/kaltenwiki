@@ -17,4 +17,4 @@ Ihre Mutter Tatyana war in der 80er-Jahren Agentin des KGB. In der Gegenwart wur
 
 ## Traumreisen
 
-Theresa Taylor ist durch Traumsequenzen mit *Elaia Kayma Galatia* (Ἐλάια Καΰμα Γαλατία, 37 v. Chr.), *Daria Nadia Schneider* (1772) und *Tatjana Xenia Trawnikowa* (1982) verbunden.
+Theresa Taylor ist durch Traumsequenzen mit [Elaia Kayma Galatia]({{ "kaltenwiki/alexandria" | relative_url }}) (Ἐλάια Καΰμα Γαλατία, 37 v. Chr.), [Daria Nadia Schneider]({{ "kaltenwiki/staatstheater" | relative_url }}) (1772) und *Tatjana Xenia Trawnikowa* (1982) verbunden.

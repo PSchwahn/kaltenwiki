@@ -11,3 +11,5 @@ Die Universität Kaltenstein ist größer als die [von-Kaltenstein-Universität]
 Es existeren verschiedene Kooperationen zwischen der Universität Kaltenstein und [Lang Tech]({{ "kaltenwiki/lang_tech" | relative_url }}) -- letztere stellen sowohl technische Ausstattung als auch Stipendien zur Verfügung.
 
 In international Rankings gilt die Universität Kaltenstein als eine der modernsten in Europa. Kritiker werfen ihr eine zu enge Wirtschaftsnähe vor.
+
+**Rektor**: Göktan Akın

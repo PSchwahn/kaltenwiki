@@ -11,4 +11,4 @@ Ihr Busenfreund **Bobo** ist ein Südlicher Großflugbeutler, welcher in seinen 
 
 ## Traumreisen
 
-Maria Lamellicornia ist durch Traumsequenzen mit *Koleoptera* (Κολεόπτερα, 37 v. Chr.), *Maia Schneider* (1772) und *Marta Schukowa* (1982) verbunden.
+Maria Lamellicornia ist durch Traumsequenzen mit [Koleoptera]({{ "kaltenwiki/alexandria" | relative_url }}) (Κολεόπτερα, 37 v. Chr.), [Maia Schneider]({{ "kaltenwiki/staatstheater" | relative_url }}) (1772) und *Marta Schukowa* (1982) verbunden.

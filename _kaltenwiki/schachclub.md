@@ -13,4 +13,4 @@ Zentrale Figur ist *La Dame Noire*.
 * Schwarzer Turm: [Giovanni Loison]({{ "kaltenwiki/loison" | relative_url }}). Inhaber des *Café International*.
 * Schwarzer Bauer: [Frederica Lounds]({{ "kaltenwiki/freddie" | relative_url }})
 * Schwarzer Springer: [Ursula Schüssele]({{ "kaltenwiki/schuessele" | relative_url }})
-* Schwarzer Läufer: Ein hochgewachsener, blonder Mann. Zutritt zum *Bunker*.
+* Schwarzer Läufer: *Frank Müller*, ein hochgewachsener, blonder Mann. Zutritt zum *Bunker*.
