@@ -30,11 +30,11 @@ Vor dem Hintergrund des [Apophis-Kultes]({{ "kaltenwiki/apophis" | relative_url 
 * Gegenstand $$\to$$ VIII Uhr
 * Konzept $$\to$$ XIII Tod
 * Figur $$\to$$ XVIII Eremit
-* Gestirn $$\to$$ XXIII Leere, Komet, Finsternis?
+* Gestirn $$\to$$ XXIII Leere
 
 ## Weltliches
 
-Die Gruft von *Quirinus von Kaltenstein* ist nach dem Vorbild des Kaltensteiner Tarots konstruiert.
+Die Gruft von [Quirinus von Kaltenstein]({{ "kaltenwiki/quirinus_vk" | relative_url }}) ist nach dem Vorbild des Kaltensteiner Tarots konstruiert. Dort kommen auch die verlorenen Arkana vor (mit ihren lateinischen Namen), was die obige Vermutung bestätigt.
 
 ## Dokumente
 
