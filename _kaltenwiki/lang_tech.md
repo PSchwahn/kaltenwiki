@@ -16,3 +16,4 @@ Lang Tech führt verschiedene Kooperationen mit der [Universität Kaltenstein]({
 * **Lang Crypta** (Grundlagenforschung Informatik)
 * **Lang Quanta** (Grundlagenforschung Teilchenphysik)
 * [Lang Helix]({{ "kaltenwiki/lang_helix" | relative_url }}) (Grundlagenforschung Biochemie)
+* **Lang Intelligence** (?); dort arbeitet [Frank Müller]({{ "kaltenwiki/laeufer" | relative_url }}).

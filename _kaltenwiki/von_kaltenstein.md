@@ -13,4 +13,4 @@ Die **von-Kaltenstein-Familie**, auch **Haus Kaltenstein**, stellt seit Jahrhund
 * ihr Ehemann Charles Éréane; dieser wurde am [Prekrasnaya-Institut]({{ "kaltenwiki/prekrasnaya_institut" | relative_url }}) promoviert
 * Großherzog [Justus Aurelius von Kaltenstein]({{ "kaltenwiki/justus_aurelius_vk" | relative_url }})
 * Großherzog Ludwig von Kaltenstein: Stifter des von-Kaltenstein-Theaters
-* Quirinus von Kaltenstein
+* Quirinus von Kaltenstein (?)

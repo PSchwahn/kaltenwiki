@@ -11,3 +11,5 @@ Der Schwerpunkt der von-Kaltenstein-Universität liegt im humanistischen, philos
 ## Bekannte Persönlichkeiten
 
 * Professor Luchs (Ägyptologie)
+* [Professor Pillepalle]({{ "kaltenwiki/pillepalle" | relative_url }}) (Psychologie; emeritiert und verstorben)
+* Gundula Aurik, Sekretärin am Pychologischen Institut

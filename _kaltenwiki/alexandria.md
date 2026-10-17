@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Alexandrien
+place: true
 ---
 
 **Alexandria** oder **Alexandrien** ist eine Stadt an der Nordküste Ägyptens. Sie liegt am Nildelta.

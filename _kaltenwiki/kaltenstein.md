@@ -37,8 +37,8 @@ In Kaltenstein gibt es zwei Universitäten: die [Justus-Aurelius-von-Kaltenstein
 * **Neues Schloss Kaltenstein**: Residenz der [von-Kaltenstein-Familie]({{ "kaltenwiki/von_kaltenstein" | relative_url }}). Der *Schlosspark* sowie ein im Schloss beherbergtes Museum sind für die Öffentlichkeit zugänglich.
 * **Kathedrale der heiligen Maria**: auch **Alte Kathedrale**, liegt im Stadtteil *Kaltenstein-Widdenberg* und entstand etwa zur gleichen Zeit wie das Neue Schloss.
 * Ehem. **Kloster Kaltenstein**: liegt in Kaltenstein-Widdenberg. Der Grund und die historischen Gebäude gehören seit 1654 zur [von-Kaltenstein-Universität]({{ "kaltenwiki/vk_uni" | relative_url }}).
-* **Historische Altstadt**: liegt rund um den Widdenberg und ist weitestgehend erhalten. Dort befinden sich die *Staatsoper Kaltenstein*, das *Historische Museum* sowie die *Eleonora-von-Kaltenstein-Bibliothek*.
-* **Kaltenstein-Neustadt**: beinhaltet den *Lang Tower*, den Campus der [Universität Kaltenstein]({{ "kaltenwiki/uni_kaltenstein" | relative_url }}), das *Ludwig-van-Beethoven-Konzerthaus* und das *Escher-Museum für moderne Kunst und Grafik*.
+* **Historische Altstadt**: liegt rund um den Widdenberg und ist weitestgehend erhalten. Dort befinden sich die *Staatsoper Kaltenstein*, das [Historische Museum]({{ "kaltenwiki/museum" | relative_url }}) sowie die *Eleonora-von-Kaltenstein-Bibliothek*.
+* **Kaltenstein-Neustadt**: beinhaltet den [Lang Tower]({{ "kaltenwiki/lang_tech" | relative_url }}), den Campus der [Universität Kaltenstein]({{ "kaltenwiki/uni_kaltenstein" | relative_url }}), das *Ludwig-van-Beethoven-Konzerthaus* und das *Escher-Museum für moderne Kunst und Grafik*.
 * Das [Staatstheater Kaltenstein]({{ "kaltenwiki/staatstheater" | relative_url }}).
 * **Kaltentopf**: zentral gelegener See.
 

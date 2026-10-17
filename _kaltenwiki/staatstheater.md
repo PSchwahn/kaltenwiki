@@ -16,13 +16,13 @@ Die mechanische Konstruktion des Theaters stammt von Maia Schneider. Während de
 
 ## Benefizgeneralprobe
 
-Die Benefizgeneralprobe des Balletstücks *Nussknacker* wurde von der *Von-Kaltenstein-Stiftung* abgehalten; leitende Veranstalterin war *Amelie Wasserteich*. Bei der Aufführung tanzte das *Bertrand-Ensemble* nebst einigen mechanischen Puppen; musikalisch wurde das Stück durch die *Kaltenstein-Kammersolisten* untermalt.
+Die Benefizgeneralprobe des Balletstücks *Nussknacker* wurde von der *Von-Kaltenstein-Stiftung* abgehalten; leitende Veranstalterin war [Amelie Wasserteich]({{ "kaltenwiki/wasserteich" | relative_url }}). Bei der Aufführung tanzte das *Bertrand-Ensemble* nebst einigen mechanischen Puppen; musikalisch wurde das Stück durch die *Kaltenstein-Kammersolisten* untermalt.
 
 Unter den Gästen befanden sich auch [Lirk Denz]({{ "kaltenwiki/lirk" | relative_url }}), [Maria Lamellicornia]({{ "kaltenwiki/maria" | relative_url }}), [Frederica Lounds]({{ "kaltenwiki/freddie" | relative_url }}), [Theresa Taylor]({{ "kaltenwiki/theresa" | relative_url }}) und [Sharon Una-Vader]({{ "kaltenwiki/sharon" | relative_url }}).
 
 In der zweiten Hälfte kam es zu einem von Marie Bertrand inszenierten dramatischen Zwischenfall, welcher Aufmerksamkeit auf den Tod ihres Mannes Georg Schönsicht lenken sollte.
 
-Der Versuch von Jan Paul Schneider, Frau Wasserteich ans Zahnrad zu fesseln und damit an [Apophis]({{ "kaltenwiki/apophis" | relative_url }}) zu opfern, konnte vereitelt werden.
+Der Versuch von Jan Paul Schneider, [Amelie Wasserteich]({{ "kaltenwiki/wasserteich" | relative_url }}) ans Zahnrad zu fesseln und damit an [Apophis]({{ "kaltenwiki/apophis" | relative_url }}) zu opfern, konnte vereitelt werden.
 
 ## Dokumente
 

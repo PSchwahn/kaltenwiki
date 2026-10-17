@@ -11,6 +11,10 @@ Ursprünglich handelte es sich um eine gewöhnliche Taschenuhr. Die Schlangensym
 
 Nach Sharon Una-Vaders Tod tauchte die Uhr bei [Lirk Denz]({{ "kaltenwiki/lirk" | relative_url }}) auf.
 
+## Okkultes
+
+Die Uhr kann als [Apophis]({{ "kaltenwiki/apophis" | relative_url }})-Artefakt betrachtet werden. Im Fall von [Lirk Denz]({{ "kaltenwiki/lirk" | relative_url }}) verstärkt die Uhr seine vorhandenen Medium- und Hypnosefähigkeiten. Gleichzeitig liegt ein Fluch auf der Uhr: ihr Besitzer gibt sie niemals freiwillig aus der Hand.
+
 ## Dokumente
 
 * [Tagebuch von Maia Schneider]({{ "kaltenmedia/MaiasTagebuchFin.pdf" | relative_url }})

@@ -9,6 +9,8 @@ Dr. **Lothar A. W. M. Pillepalle** war Professor für Psychologie an der [von-Ka
 
 Pillepalle ging daraufhin in den Ruhestand und starb selbst kurze Zeit später.
 
+Wer ist Herr Erbsenstrauch?
+
 ## Dokumente
 
 * Forschungsnotizen von Lothar A. W. M. Pillepalle
