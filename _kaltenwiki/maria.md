@@ -20,4 +20,5 @@ Maria Lamellicornia ist durch Traumsequenzen mit [Koleoptera]({{ "kaltenwiki/ale
 * [Frederica Lounds]({{ "kaltenwiki/freddie" | relative_url }})
 * Mann auf Lamellicornia-Gartenparty
 * [Daniela Hitzkopf]({{ "kaltenwiki/lang_helix" | relative_url }})
-* Felix Weize (Biologie, [Universität Kaltenstein]({{ "kaltenwiki/uni_kaltenstein" | relative_url }})) 
+* Felix Weize (Biologie, [Universität Kaltenstein]({{ "kaltenwiki/uni_kaltenstein" | relative_url }}))
+* Ronja ([Polizei Kaltenstein]({{ "kaltenwiki/polizei" | relative_url }})
