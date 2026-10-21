@@ -4,7 +4,7 @@ title: VITA
 institution: true
 ---
 
-**VITA** ist eine mafiöse Organisation. Es wird vermutet, dass sie hinter der Entführung von Tatyana Trawnikowa stecken.
+**VITA** ist eine mafiöse Organisation. Es wird vermutet, dass sie hinter der Entführung von Tatjana Trawnikowa stecken.
 
 ## Hinweise
 

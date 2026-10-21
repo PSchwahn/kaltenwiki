@@ -9,7 +9,7 @@ name: kurz angelika
 
 Einer ihrer Kollegen war *Pascal Locker*.
 
-Kurz' ist eine Kusine von [Frederica Lounds]({{ "kaltenwiki/freddie" | relative_url }}).
+Kurz ist eine Kusine von [Frederica Lounds]({{ "kaltenwiki/freddie" | relative_url }}).
 
 ## Dokumente
 

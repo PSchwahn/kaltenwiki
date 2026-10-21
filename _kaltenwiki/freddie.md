@@ -5,7 +5,7 @@ person: true
 name: lounds
 ---
 
-Dr. **Frederica "Freddie" Lounds**, auch **Frederika Launce** ist eine in [Kaltenstein]({{ "kaltenwiki/kaltenstein" | relative_url }}) wohnhafte Journalistin für das lokale Tagesblatt *Morgenstein*. Sie ist eine Kusine der vor Kurzem verstorbenen Archäologin [Angelika Kurz]({{ "kaltenwiki/angelika_kurz" | relative_url }})
+Dr. **Frederica "Freddie" Lounds**, auch **Frederika Launce** ist eine in [Kaltenstein]({{ "kaltenwiki/kaltenstein" | relative_url }}) wohnhafte Journalistin für das lokale Tagesblatt *Morgenstein*. Sie ist eine Kusine der vor Kurzem verstorbenen Archäologin [Angelika Kurz]({{ "kaltenwiki/angelika_kurz" | relative_url }}).
 
 Lounds ist Trägerin des [Schwarzen Bauern]({{ "kaltenwiki/schachclub" | relative_url }}).
 

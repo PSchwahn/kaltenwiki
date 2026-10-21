@@ -14,4 +14,4 @@ Der Philosoph *Perchon Age* reiste 37 v. Chr. auf den Rat der Nike-Priesterin un
 
 Das Ritual hatte den Zweck, den *Fluch des Apophis* auf Age übergehen zu lassen. Teil des Rituals war das Alexandergrab, das Verbrennen von Kräutern sowie ein Brandmal in Form des *Siegels des Apophis*. Diospyra selbst entpuppte sich als Anführerin der Kultisten.
 
-Einee Gruppe aus drei Athenerinnen (*Athene-Priesterin *Koleoptera*, Schriftgelehrte *Elaia Kayma Galatia*, Kriegerin *Eirini Pallas*) fand Age und Diospyra in Holzkäfigen. Es gelang ihnen, Age zu befreien; Diospyra war anscheinend bei dem Ritual ums Leben gekommen.
+Einee Gruppe aus drei Athenerinnen (Athene-Priesterin *Koleoptera*, Schriftgelehrte *Elaia Kayma Galatia*, Kriegerin *Eirini Pallas*) fand Age und Diospyra in Holzkäfigen. Es gelang ihnen, Age zu befreien; Diospyra war anscheinend bei dem Ritual ums Leben gekommen.

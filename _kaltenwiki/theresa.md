@@ -5,7 +5,7 @@ person: true
 name: taylor theresa
 ---
 
-**Theresa Natasha Taylor** ist die Tochter und das einzige Kind von *Jonathan "Jo" Taylor* und *Tatyana Xenia "Tanya" Trawnikowa*. Sie lebt im *Taylor-Anwesen* in [Kaltenstein]({{ "kaltenwiki/kaltenstein" | relative_url }}) und ist zum Zeitpunkt der Handlung zwölf Jahre alt.
+**Theresa Natasha Taylor** ist die Tochter und das einzige Kind von *Jonathan "Jo" Taylor* und *Tatjana Xenia "Tanya" Trawnikowa*. Sie lebt im *Taylor-Anwesen* in [Kaltenstein]({{ "kaltenwiki/kaltenstein" | relative_url }}) und ist zum Zeitpunkt der Handlung zwölf Jahre alt.
 
 Taylor genießt Privatunterricht anstelle einer normalen Schulbildung, wodurch sie zwar spezielle Förderung erfährt, aber wenige soziale Kontakte hat. Sie ist in hohem Maße technikaffin und besitzt ungewöhnliche Fertigkeiten in Elektronik, Datenverarbeitung und Hacking.
 
@@ -13,7 +13,7 @@ Taylor genießt Privatunterricht anstelle einer normalen Schulbildung, wodurch s
 
 Taylor ist die Erbin von [Sharon Una-Vader]({{ "kaltenwiki/sharon" | relative_url }}), welche bis zu ihrem Tod Theresas Kindermädchen war.
 
-Ihre Mutter Tatyana war in der 80er-Jahren Agentin des KGB. In der Gegenwart wurde sie von Leuten mit Schlangentattoos entführt.
+Ihre Mutter Tatjana war in der 80er-Jahren Agentin des KGB. In der Gegenwart wurde sie von Leuten mit Schlangentattoos entführt.
 
 ## Traumreisen
 

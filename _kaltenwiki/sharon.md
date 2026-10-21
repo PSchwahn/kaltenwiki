@@ -13,4 +13,4 @@ Sie verstarb in ihrer Wohnung, offenbar an Altersschwäche. Nach Una-Vaders Tod 
 
 ## Traumreisen
 
-Sharon Una-Vader ist durch Traumsequenzen mit [Diospyra]({{ "kaltenwiki/alexandria" | relative_url }}) (Διόσπυρα, 37 v. Chr., mutmaßlich) und *Samaria Una-Vader* (1772) verbunden. In der Nacht ihres Todes wurde träumte [Lirk Denz]({{ "kaltenwiki/lirk" | relative_url }}) von einem Ritual, in dem der *Fluch des Apophis* von Diospyra auf *Perchon Age* übertragen wurde und Diospyra starb.
+Sharon Una-Vader ist durch Traumsequenzen mit [Diospyra]({{ "kaltenwiki/alexandria" | relative_url }}) (Διόσπυρα, 37 v. Chr., mutmaßlich) und *Samaria Una-Vader* (1772) verbunden. In der Nacht ihres Todes träumte [Lirk Denz]({{ "kaltenwiki/lirk" | relative_url }}) von einem Ritual, in dem der *Fluch des Apophis* von Diospyra auf *Perchon Age* übertragen wurde und Diospyra starb.
