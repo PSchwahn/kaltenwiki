@@ -7,6 +7,8 @@ name: kaltenstein
 
 Die **von-Kaltenstein-Familie**, auch **Haus Kaltenstein**, stellt seit Jahrhunderten die Großherzöge von [Kaltenstein]({{ "kaltenwiki/kaltenstein" | relative_url }}).
 
+Es wird vermutet, dass die Familie von Kaltenstein in mafiöse Geschäfte verwickelt ist; [VITA]({{ "kaltenwiki/vita" | relative_url }}) gilt als ihr "langer Arm".
+
 ## Wichtige Mitglieder
 
 * Prinzessin Gloria von Kaltenstein: wurde 1982 im *Ludwig-von-Kaltenstein-Sanatorium* gefangengehalten

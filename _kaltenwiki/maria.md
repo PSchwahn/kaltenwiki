@@ -9,7 +9,7 @@ Dr. **Maria Lamellicornia** ist eine Entomologin und Arbeitsgruppenleiterin am 2
 
 Ihr Busenfreund **Bobo** ist ein Südlicher Großflugbeutler, welcher in seinen Gesichtszügen eine gewissen Ähnlichkeit mit [Kommissar Peterle]({{ "kaltenwiki/polizei" | relative_url }}) aufweist.
 
-Lamellicornia entstammt einer gutbürgerlichen Familie. Sie ist die Tochter von *Karsten und Petra Lamellicornia*. Beide haben ein Faible für Kohlrouladen.
+Lamellicornia entstammt einer gutbürgerlichen Familie. Sie ist die Tochter von **Karsten und Petra Lamellicornia**. Beide haben ein Faible für Kohlrouladen.
 
 ## Traumreisen
 

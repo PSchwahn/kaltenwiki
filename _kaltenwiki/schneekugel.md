@@ -12,3 +12,5 @@ Bei der Schneekugel handelt es sich um ein Artefakt des [Apophis]({{ "kaltenwiki
 Als [Lirk Denz]({{ "kaltenwiki/lirk" | relative_url }}) die Schneekugel berührte, fanden er und seine Begleiter sich in einer Fantasiewelt wieder: ein immerwährender Zirkus in einer Schneelandschaft, die von auf zwei Beinen gehenden Tieren besiedelt waren. Insbesondere den Tieren aus dem [Kaltenstein-Tarot]({{ "kaltenwiki/tarot" | relative_url }}) kam besondere Bedeutung zu, doch letztendlich waren diese nur Trugbilder der [Schlange]({{ "kaltenwiki/apophis" | relative_url }}). Diese hielt [Madelaine Fischer]({{ "kaltenwiki/madelaine" | relative_url }}) in ihrer Rolle als Zirkusballerina fest, bis [Lirk Denz]({{ "kaltenwiki/lirk" | relative_url }}) freiwillig ihren Platz einnahm.
 
 Danach war unter der Kuppel eine Denz ähnliche Figur zu sehen, während Fischers Geist sich in [Beth]({{ "kaltenwiki/theresa" | relative_url }}) niederließ.
+
+Nachdem Denz von [Apophis]({{ "kaltenwiki/apophis" | relative_url }}) wieder in die Welt entlassen wurde, sah man unter der Kuppel nur ein generisches Mannequin.

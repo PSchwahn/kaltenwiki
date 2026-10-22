@@ -11,6 +11,8 @@ Una-Vader besaß übersinnliche Mediumsfähigkeiten.
 
 Sie verstarb in ihrer Wohnung, offenbar an Altersschwäche. Nach Una-Vaders Tod ging aus ihrem Testament hervor, dass sie [Theresa Taylor]({{ "kaltenwiki/theresa" | relative_url }}) als Alleinerbin eingesetzt hatte. Weiterhin ging eine [alte Taschenuhr]({{ "kaltenwiki/uhr" | relative_url }}) aus ihrem Besitz in den von [Lirk Denz]({{ "kaltenwiki/lirk" | relative_url }}) über.
 
+Laut ihrem Testament vermacht sie [Lirk Denz]({{ "kaltenwiki/lirk" | relative_url }}) ihre Kochbücher und erlaubt ihm, weiterhin mietfrei in ihrem Haus zu wohnen. Das Haus selbst wird an [Theresa Taylor]({{ "kaltenwiki/theresa" | relative_url }}) vererbt. 
+
 ## Traumreisen
 
 Sharon Una-Vader ist durch Traumsequenzen mit [Diospyra]({{ "kaltenwiki/alexandria" | relative_url }}) (Διόσπυρα, 37 v. Chr., mutmaßlich) und *Samaria Una-Vader* (1772) verbunden. In der Nacht ihres Todes träumte [Lirk Denz]({{ "kaltenwiki/lirk" | relative_url }}) von einem Ritual, in dem der *Fluch des Apophis* von Diospyra auf *Perchon Age* übertragen wurde und Diospyra starb.

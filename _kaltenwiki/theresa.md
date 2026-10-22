@@ -5,11 +5,11 @@ person: true
 name: taylor theresa
 ---
 
-**Theresa Natasha Taylor** ist die Tochter und das einzige Kind von *Jonathan "Jo" Taylor* und *Tatjana Xenia "Tanya" Trawnikowa*. Sie lebt im *Taylor-Anwesen* in [Kaltenstein]({{ "kaltenwiki/kaltenstein" | relative_url }}) und ist zum Zeitpunkt der Handlung zwölf Jahre alt.
+**Theresa Natasha Taylor** ist die Tochter und das einzige Kind von **Jonathan "Jo" Taylor** und **Tatjana Xenia "Tanya" Trawnikowa**. Sie lebt im **Taylor-Anwesen** in [Kaltenstein]({{ "kaltenwiki/kaltenstein" | relative_url }}) und ist zum Zeitpunkt der Handlung zwölf Jahre alt.
 
 Taylor genießt Privatunterricht anstelle einer normalen Schulbildung, wodurch sie zwar spezielle Förderung erfährt, aber wenige soziale Kontakte hat. Sie ist in hohem Maße technikaffin und besitzt ungewöhnliche Fertigkeiten in Elektronik, Datenverarbeitung und Hacking.
 
-**Beth** ist ein Roboter in Form und Größe einer Vogelspinne, welcher von Theresa am Handgelenk getragen wird und von ihr ferngesteuert und zum Sammeln von Daten eingesetzt werden kann. Sie besitzt überdies mehrere Gadgets und ein künstliches Bewusstsein.
+**Beth** ist ein Roboter in Form und Größe einer Vogelspinne, welcher von Theresa am Handgelenk getragen wird und von ihr ferngesteuert und zum Sammeln von Daten eingesetzt werden kann. Sie besitzt überdies mehrere Gadgets und ein künstliches Bewusstsein. Zeitweise berherbergte Beth den Geist von [Madelaine Fischer]({{ "kaltenwiki/madelaine" | relative_url }}).
 
 Taylor ist die Erbin von [Sharon Una-Vader]({{ "kaltenwiki/sharon" | relative_url }}), welche bis zu ihrem Tod Theresas Kindermädchen war.
 

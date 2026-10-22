@@ -13,7 +13,7 @@ Lounds ist Trägerin des [Schwarzen Bauern]({{ "kaltenwiki/schachclub" | relativ
 
 Vor ihrer Karriere als Journalistin studierte Lounds Philosophie an der [Universität Kaltenstein]({{ "kaltenwiki/uni_kaltenstein" | relative_url }}) und wurde dort promoviert. Während ihres Studiums belegte sie unter anderem Seminare bei [Lirk Denz]({{ "kaltenwiki/lirk" | relative_url }}).
 
-Nach dem Anschlag auf die [Detektei Denz]({{ "kaltenwiki/lirk" | relative_url }}) wurde polizeilich nach ihr gefahndet und sie ist unter dem Pseudonym **Katharina Bauer** untergetaucht.
+Nach dem Anschlag auf die [Detektei Denz]({{ "kaltenwiki/lirk" | relative_url }}) wurde [polizeilich]({{ "kaltenwiki/polizei" | relative_url }}) nach ihr gefahndet und sie ist unter dem Pseudonym **Katharina Bauer** untergetaucht.
 
 ## Traumreisen
 

@@ -17,9 +17,9 @@ Das Passwort von Pillepalles Heimrechner ist `CGJung`.
 
 ## Experimente
 
-Pillepalle wusste vom Apophis-Kult, da er [Prof. Otto Lugs]({{ "kaltenwiki/luchs" | relative_url }}) dazu befragt hatte und auch ein Exemplar seines Buches zur ägyptischen Mythologie besaß.
+Pillepalle wusste vom [Apophis-Kult]({{ "kaltenwiki/apophis" | relative_url }}), da er [Prof. Otto Lugs]({{ "kaltenwiki/luchs" | relative_url }}) dazu befragt hatte und auch ein Exemplar seines Buches zur ägyptischen Mythologie besaß.
 
-Für eine Serie parapsychologischer Experimente rekrutierte er 2016 [Madelaine Fischer]({{ "kaltenwiki/madelaine" | relative_url }}), eine seiner Studentinnen. Die Experimente fanden im Trolling-Anwesen statt und beinhalteten eine krude Elektrotherapie. Im Verlauf dieser verstarb Fischer. Da sie vorab eine Einwilligungserklärung unterschrieben hatte, konnte Pillepalle rechtlich nicht für ihren Tod belangt werden.
+Für eine Serie parapsychologischer Experimente rekrutierte er 2016 [Madelaine Fischer]({{ "kaltenwiki/madelaine" | relative_url }}), eine seiner Studentinnen. Die Experimente fanden im Trolling-Anwesen statt und beinhalteten die Gabe von halluzinogenen Drogen sowie eine krude Elektrotherapie. Im Verlauf dieser verstarb Fischer. Da sie vorab eine Einwilligungserklärung unterschrieben hatte, konnte Pillepalle rechtlich nicht für ihren Tod belangt werden.
 
 ## Dokumente
 

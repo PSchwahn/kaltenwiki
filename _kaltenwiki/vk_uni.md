@@ -14,3 +14,5 @@ Der Schwerpunkt der von-Kaltenstein-Universität liegt im humanistischen, philos
 * [Prof. Lothar Pillepalle]({{ "kaltenwiki/pillepalle" | relative_url }}) (Psychologie; emeritiert und verstorben)
 * Gundula Aurik (Sekretärin am Pychologischen Institut)
 * Prof. Erbsenstrauch (Psychologie)
+* Janette Hoop (Admin Stud-Pool)
+* Kai Engelhai (Masterstudent Informatik)

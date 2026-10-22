@@ -6,11 +6,12 @@ institution: true
 
 Die **Organisation** oder der **Schachverein** (inoffiziell) ist ein Bündnis von Akteuren, die sich als Gegner der [VITA]({{ "kaltenwiki/vita" | relative_url }}) und des [Hauses Kaltenstein]({{ "kaltenwiki/von_kaltenstein" | relative_url }}) verstehen. Als Erkennungszeichen tragen die Mitglieder Schachfiguren (welche eventuell verflucht sind). Aus Gründen der Sicherheit wissen die Mitglieder so wenig wie möglich von einander.
 
-Zentrale Figur ist *La Dame Noire*.
+Zentrale Figur ist *La Dame Noire*. Kontakt zu ihr besteht durch eine *Eule*.
 
 ## Bekannte Mitglieder
 
 * Schwarzer Turm: [Giovanni Loison]({{ "kaltenwiki/loison" | relative_url }}), Inhaber des *Café International*.
 * Schwarzer Bauer: [Frederica Lounds]({{ "kaltenwiki/freddie" | relative_url }}).
 * Schwarzer Springer: [Ursula Schüssele]({{ "kaltenwiki/schuessele" | relative_url }}), Leiterin des [Prekrasnaya-Instituts]({{ "kaltenwiki/prekrasnaya_institut" | relative_url }}).
-* Schwarzer Läufer: [Frank Müller]({{ "kaltenwiki/laeufer" | relative_url }}). Mitarbeiter bei [Lang Intelligence]({{ "kaltenwiki/lang_tech" | relative_url }}), hat Zutritt zum *Bunker*.
+* Schwarzer Läufer: [Frank Müller]({{ "kaltenwiki/laeufer" | relative_url }}). Mitarbeiter bei [Lang Intelligence]({{ "kaltenwiki/lang_tech" | relative_url }}), hat Zutritt zum [Bunker]({{ "kaltenwiki/bunker" | relative_url }}).
+* Eule von La Dame Noire: Zugang zu einer Försterhütte.

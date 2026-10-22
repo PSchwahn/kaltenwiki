@@ -18,7 +18,7 @@ Kaltenstein blieb (wie auch die Schweiz) im Ersten und Zweiten Weltkrieg neutral
 
 ## Wirtschaft
 
-Die Währung von Kaltenstein sind *Kaltensteiner Kronen* ($$\mathbb{K}$$), obwohl in den meisten Fällen auch Euro akzeptiert werden. Anders als die Schweiz ist Kaltenstein Teil des Europäischen Wirtschaftsraumes.
+Die Währung von Kaltenstein sind *Kaltensteiner Kronen* ($$\mathbb{K}$$), obwohl in den meisten Fällen auch Euro akzeptiert werden. Anders als die Schweiz ist Kaltenstein Teil des Europäischen Wirtschaftsraumes, allerdings nicht von Interpol.
 
 Seit dem Erfolg des lokalen Unternehmens [Lang Tech]({{ "kaltenwiki/lang_tech" | relative_url }}) im späten 20. Jhd. gilt Kaltenstein als ein erfolgreicher Industriestandort.
 
@@ -41,6 +41,7 @@ In Kaltenstein gibt es zwei Universitäten: die [Justus-Aurelius-von-Kaltenstein
 * **Kaltenstein-Neustadt**: beinhaltet den [Lang Tower]({{ "kaltenwiki/lang_tech" | relative_url }}), den Campus der [Universität Kaltenstein]({{ "kaltenwiki/uni_kaltenstein" | relative_url }}), das *Ludwig-van-Beethoven-Konzerthaus* und das *Escher-Museum für moderne Kunst und Grafik*.
 * Das [Staatstheater Kaltenstein]({{ "kaltenwiki/staatstheater" | relative_url }}).
 * **Kaltentopf**: zentral gelegener See.
+* Das [Eleonora-von-Kaltenstein-Krankenhaus]({{ "kaltenwiki/eleonora_krankenhaus" | relative_url }}).
 
 ## Dokumente
 

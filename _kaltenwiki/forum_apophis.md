@@ -7,4 +7,4 @@ Das **Forum Apophis** ist ein minimalistisches Internetforum, welches unter der 
 
 Im Forum sind Bilder der [alten Taschenuhr]({{ "kaltenwiki/uhr" | relative_url }}) und der Schlangensymbole bei der Jubiläumsveranstaltung im [Prekrasnaya-Okular]({{ "kaltenwiki/prekrasnaya_institut" | relative_url }}) zu finden.
 
-Bisher ist die Forenaktivität minimal.
+Bisher ist die Forenaktivität minimal. Es gab einige Anmeldungen von Accounts aus Kaltenstein (z.B. `SexyBunny36`), jedoch keine Posts.

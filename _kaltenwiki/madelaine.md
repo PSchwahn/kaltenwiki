@@ -7,7 +7,9 @@ name: fischer madelaine
 
 **Madelaine Fischer** war eine Studentin der Psychologie an der [von-Kaltenstein-Universität]({{ "kaltenwiki/vk_uni" | relative_url }}). Eine ihrer Leidenschaften war das Ballett.
 
-Für eine Serie parapsychologischer Experimente wurde sie 2016 von ihrem Dozent [Prof. Lothar Pillepalle]({{ "kaltenwiki/pillepalle" | relative_url }}) rekrutiert. Im Verlauf dieser Experimente verstarb Fischer. Da sie vorab eine Einwilligungserklärung unterschrieben hatte, konnte Pillepalle rechtlich nicht für ihren Tod belangt werden.
+Für eine Serie parapsychologischer Experimente wurde sie 2016 von ihrem Dozent [Prof. Lothar Pillepalle]({{ "kaltenwiki/pillepalle" | relative_url }}) rekrutiert. Im Verlauf dieser Experimente, welche unter anderem eine krude Elektrotherapie beinhalteten, verstarb Fischer. Da sie vorab eine Einwilligungserklärung unterschrieben hatte, konnte Pillepalle rechtlich nicht für ihren Tod belangt werden.
+
+Es ist denkbar, dass sie, um ihrem Martyrium zu entkommen, einen Pakt mit [Apophis]({{ "kaltenwiki/apophis" | relative_url }}) schloss.
 
 ## Geisterdasein
 
