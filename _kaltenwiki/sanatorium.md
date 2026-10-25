@@ -10,12 +10,16 @@ Das **Ludwig-von-Kaltenstein-Sanatorium für Psychosomatik und Hysterie** war ei
 
 Sämtliche leitende Ärzte folgen der psychoanalytischen Schule. Bekannte Mitarbeiter sind wie folgt:
 
-* Dr. Habert (Leitender Arzt, Leiter des Sanatoriums)
+* Dr. Philipp Habert (Leitender Arzt, Leiter des Sanatoriums)
 * Dr. Falk (Leitender Arzt, zuständig für Schmerzpatienten)
 * Dr. Heinemaria Josef (Leitender Arzt, zuständig für Hysterie)
 * Schwester Franziska (Oberschwester)
+* Schwester Clarissa (Krankenschwester)
+* Zacharias Schmidtbauer (Chefkoch)
+* Anne (Köchin)
+* Tobias (Küchenhilfe)
 
-Prinzessin *Gloria von Kaltenstein* saß 1982 gegen ihren Willen in Isolation im Sanatorium ein. Betreut wurde sie von Dr. Habert. Zum Zweck ihrer Befreiung wurden vier sowjetische Agenten ins Sanatorium eingeschleust:
+Prinzessin [Gloria von Kaltenstein]({{ "kaltenwiki/gloria_vk" | relative_url }}) saß 1982 gegen ihren Willen in Isolation im Sanatorium ein. Betreut wurde sie von Dr. Habert. Zum Zweck ihrer Befreiung wurden vier Agenten des KGB ins Sanatorium eingeschleust:
 
 * Warl Kesnov (sowjetischer Konsul in Kaltenstein). Deckidentität: Banach Steinhaus, Sekretär von Dr. Habert.
 * Marta Schukowa (Schüler-Austauschstudentin in der Physik). Deckidentität: Margarete Schulz, Pflegehilfe.
@@ -24,7 +28,11 @@ Prinzessin *Gloria von Kaltenstein* saß 1982 gegen ihren Willen in Isolation im
 
 Zuvor besuchten Schukowa und Trawnikowa Vorlesungen an der [von-Kaltenstein-Universität]({{ "kaltenwiki/vk_uni" | relative_url }}), unter anderem des Gastdozenten *Alexander Grothendieck*.
 
-Laut Krankenakte und Überweisung des Hofarztes litt Prinzessin Gloria an Halluzinationen und Schizophrenie und stellte eine Gefahr für ihre Umgebung dar. Zu diesem Zeitpunkt war sie zudem unverheiratet schwanger, aber verlobt. Laut Gloria folgt die [von-Kaltenstein-Familie]({{ "kaltenwiki/von_kaltenstein" | relative_url }}) dem [Apophis-Kult]({{ "kaltenwiki/apophis" | relative_url }}) und plant, ihr Kind zu opfern, sobald es geboren ist.
+Laut Krankenakte und Überweisung des Hofarztes litt Prinzessin Gloria an Halluzinationen und Schizophrenie und stellte eine Gefahr für ihre Umgebung dar. Zu diesem Zeitpunkt war sie zudem unverheiratet schwanger, aber verlobt.
+
+Glorias Einzelzimmer befand sich im zweiten Obergeschoss am Ende des Frauenflügels. Sie wurde dort geknebelt und in einer Zwangsjacke auf einem Stuhl fixiert. Jeden Abend um 20:30 kam Dr. Habert zur Visite. Als die Agenten des KGB sie fanden, wies Gloria Zeichen von [Apophis]({{ "kaltenwiki/apophis" | relative_url }})-Besessenheit auf. 
+
+Gloria zufolge gehört die [von-Kaltenstein-Familie]({{ "kaltenwiki/von_kaltenstein" | relative_url }}) dem [Apophis-Kult]({{ "kaltenwiki/apophis" | relative_url }}) an und plant, ihr Kind zu opfern, sobald es geboren ist. Es gebe einen Schlüssel aus dem Familienbesitz des [Haus Kaltenstein]({{ "kaltenwiki/von_kaltenstein" | relative_url }}), welcher sie befreien könne.
 
 ...
 

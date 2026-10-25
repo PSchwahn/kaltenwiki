@@ -19,3 +19,5 @@ Zur Feier des Jubiläums wurde der Diamant wie geplant im Okular vorgeführt. Du
 ## Prekrasnaya-Archiv
 
 Das Prekrasnaya-Archiv enthält Briefe und Schriften von [Helena Prekrasnaya]({{ "kaltenwiki/prekrasnaya" | relative_url }}). Bei einem Brand im Jahr 1982 gingen viele Informationen verloren.
+
+Laut [Gloria von Kaltenstein]({{ "kaltenwiki/gloria_vk" | relative_url }}) befanden sich im Prekrasnaya-Archiv Informationen, die [Prekrasnaya]({{ "kaltenwiki/prekrasnaya" | relative_url }}) über den [Apophis-Kult]({{ "kaltenwiki/apophis" | relative_url }}) gesammelt hatte. Diese Informationen dürfen nicht an die [von-Kaltenstein-Familie]({{ "kaltenwiki/von_kaltenstein" | relative_url }}) gelangen und müssen vernichtet werden.
