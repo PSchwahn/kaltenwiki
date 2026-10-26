@@ -5,7 +5,9 @@ layout: default
 {% assign articles = site.kaltenwiki | sort: "title" %}
 {% assign people = site.kaltenwiki | where: "person", "true" | sort: "name" %}
 
-Willkommen im offiziellen Wiki zum Pen&Paper-Setting **Kaltenstein**.
+Willkommen im offiziellen Wiki zum Pen&Paper-Setting **Kaltenstein**!
+
+Sämtliche Artikel sind in steter Veränderung und von Interpretationsspielraum geplagt. Ein Großteil der gesammelten Informationen stammt aus dem *Lamellicornia-Fundus* (mit freundlicher Genehmigung der Verwalterin, K. Green). Das Wiki erhebt keinen Anspruch auf Vollständigkeit. Korrekturen und Ergänzungen sind willkommen.
 
 Personen:
 

@@ -15,7 +15,7 @@ Es ist denkbar, dass sie, um ihrem Martyrium zu entkommen, einen Pakt mit [Apoph
 
 Fischers Geist verblieb zunächst in Pillepalles Anwesen (vermutlich unfreiwillig durch die Macht der [Schneekugel]({{ "kaltenwiki/schneekugel" | relative_url }})) und versuchte verzweifelt, Kontakt zu ihrem großen Bruder *Antoine Fischer* aufzunehmen. Bemerkenswert war ihre Fähigkeit, Telefone, Radios und andere Elektrogeräte zu manipulieren.
 
-Später konnte ihre Seele befreit und sie überzeugt werden, sich [Theresa Taylor]({{ "kaltenwiki/theresa" | relative_url }}) anzuschließen.
+Später konnte ihre Seele befreit und sie überzeugt werden, sich [Theresa Taylor]({{ "kaltenwiki/theresa" | relative_url }}) anzuschließen. Als Taylor selbst von [Apophis]({{ "kaltenwiki/apophis" | relative_url }}) besessen war, opferte sie Fischers Geist im [Staatstheater]({{ "kaltenwiki/staatstheater" | relative_url }}).
 
 ## Dokumente
 

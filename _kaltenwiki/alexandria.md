@@ -19,3 +19,7 @@ Einee Gruppe aus drei Athenerinnen (Athene-Priesterin *Koleoptera*, Schriftgeleh
 ## Bibliothek
 
 Age zeigte weiterhin Zeichen der Besessenheit von [Apophis]({{ "kaltenwiki/apophis" | relative_url }}). Zu dieser Zeit ging der Apophis-Kult in der **Bibliothek von Alexandria** ein und aus, während sie für die Öffentlichkeit gesperrt war. Die Bibliothek beherbergte das [Buch des Apophis]({{ "kaltenwiki/buch_des_apophis" | relative_url }}).
+
+In der Kanalisationsmündung am Hafen gibt es einen geheimen Tunnel, der in den Keller der Bibliothek führt. Der Zugang zur Bibliothek wird durch die Magie von Apophis erschwert. Zudem wurde er durch *erweckte Tote* bewacht, welche tönerne Theatermasken tragen; unter ihnen Diospyra. Im Keller befanden sich Statuen, die Alexander den Großen in verschiedenen Stadien seines Lebens zeigen. Die mittlere Statue ist Teil eines Rätsels, welches (wieder mittels Apophis-Magie) den Zugang zur eigentlichen Bibliothek freigibt.
+
+Die Schriftgelehrte Elaia fand und las dort das [Buch des Apophis]({{ "kaltenwiki/buch_des_apophis" | relative_url }}). Daraufhin legte sie Feuer in der Bibliothek.

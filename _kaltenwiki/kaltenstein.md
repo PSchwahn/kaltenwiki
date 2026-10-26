@@ -14,7 +14,9 @@ Hauptstadt von Kaltenstein ist die gleichnamige *Stadt Kaltenstein*, welche sowo
 
 Das Großherzogtum Kaltenstein gehörte einst dem Heiligen Römischen Reich an. Im Jahr 1807 erlangte es durch seine Mitgliedschaft im Rheinbund die Souveränität. Anschließend wurde es Mitglied des Deutschen Bundes.
 
-Kaltenstein blieb (wie auch die Schweiz) im Ersten und Zweiten Weltkrieg neutral, wurde während letzterem aber ohne Widerstand vom Dritten Reich besetzt. Kaltenstein ist und war nie Mitglied der Europäischen Union.
+Kaltenstein blieb (wie auch die Schweiz) im Ersten und Zweiten Weltkrieg neutral. Nach der im [Prekrasnaya-Archiv]({{ "kaltenwiki/prekrasnaya_institut" | relative_url }}) gefundenen Korrespondenz eines Wehrmachtsgenerals verwarf Hitler die Invasionspläne für Kaltenstein über Nacht.
+
+Kaltenstein ist und war nie Mitglied der Europäischen Union.
 
 ## Wirtschaft
 

@@ -22,4 +22,4 @@ Entlang des Kanals befinden sich von Norden nach Süden folgende Sehenswürdigke
 
 ## Verborgener Raum
 
-Die Eingangstür zu einem geheimen Raum ist sorgfältig durch die [Schrift von Apophis]({{ "kaltenwiki/apophis" | relative_url }}) verborgen.
+Die Eingangstür zu einem geheimen Raum ist sorgfältig durch die [Schrift von Apophis]({{ "kaltenwiki/apophis" | relative_url }}) verborgen. Dabei handelte es sich anscheinend um den Raum eines Kommandanten. Darin fand sich eine Landkarte der Stadt [Kaltenstein]({{ "kaltenwiki/kaltenstein" | relative_url }}) und Umgebung, auf der unter Anderem Tunnelsysteme eingezeichnet sind. Weiterhin lag in der Schreibtischschublade eine [hölzerne Halskette]({{ "kaltenwiki/halskette" | relative_url }}).

@@ -8,7 +8,7 @@ Das **Kaltensteiner Tarot** ist eine lokale Variation des verbreiteten Tarot-Spi
 ## Die zwanzig Arkana
 
 * Feuer: I Narr*, VI Sonne, XI Eichhorn, XVI Dolch, XXI Täuschung
-* Luft: XXII Priester, II Mond, VII Eule, XII Würfel, XVII Schicksal
+* Luft: XXII Priester*, II Mond, VII Eule, XII Würfel, XVII Schicksal
 * Wasser: XIV Magierin*, XIX Sterne, XXIV Kröte, IV Buch, IX Macht
 * Erde: X Herrscherin*, XV Planet, XX Wolf, XXV Schlüssel, V Gerechtigkeit
 

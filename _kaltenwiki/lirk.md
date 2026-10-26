@@ -25,10 +25,12 @@ Nach dem Anschlag wurde [polizeilich]({{ "kaltenwiki/polizei" | relative_url }})
 
 ## Gedächtnis
 
-Als Lirk Denz nach [Kaltenstein]({{ "kaltenwiki/kaltenstein" | relative_url }}) kam, wurde durch einen Bekannten Taylors bei [Lang Helix]({{ "kaltenwiki/lang_tech" | relative_url }}) Denz' Gedächtnis gelöscht und durch oberflächliche Scheinerinnerungen ersetzt, sodass dieser sich nicht an sein früheres Leben erinnern konnte. Die erste konkrete Erinnerung war sein Einzug bei [Una-Vader]({{ "kaltenwiki/sharon" | relative_url }}).
+Als Lirk Denz nach [Kaltenstein]({{ "kaltenwiki/kaltenstein" | relative_url }}) kam, wurde durch einen Bekannten Taylors bei [Lang Tech]({{ "kaltenwiki/lang_tech" | relative_url }}) Denz' Gedächtnis gelöscht und durch oberflächliche Scheinerinnerungen ersetzt, sodass dieser sich nicht an sein früheres Leben erinnern konnte. Die erste konkrete Erinnerung war sein Einzug bei [Una-Vader]({{ "kaltenwiki/sharon" | relative_url }}).
 
 Denz' Erinnerung begann langsam zurückzukehren, als seine Seele durch die [Schneekugel]({{ "kaltenwiki/schneekugel" | relative_url }}) in den Griff von [Apophis]({{ "kaltenwiki/apophis" | relative_url }}) geriet.
 
 ## Traumreisen
 
 Lirk Denz ist durch Traumsequenzen mit [Perchon Age]({{ "kaltenwiki/alexandria" | relative_url }}) (Πηρχων Ἄγή, 37 v. Chr.), [Lennis Denz]({{ "kaltenwiki/staatstheater" | relative_url }}) (1772) und *Warl Kesnov* (1982) verbunden.
+
+Die Traumsequenz, in der Kesnov Prinzession [Gloria von Kaltenstein]({{ "kaltenwiki/gloria_vk" | relative_url }}) aus dem [Ludwig-von-Kaltenstein-Sanatorium]({{ "kaltenwiki/sanatorium" | relative_url }}) befreite, endete in einem Lichtblitz, ausgelöst durch eine Art Kurzschluss

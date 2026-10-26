@@ -4,7 +4,7 @@ title: Ludwig-von-Kaltenstein-Sanatorium
 place: true
 ---
 
-Das **Ludwig-von-Kaltenstein-Sanatorium für Psychosomatik und Hysterie** war eine psychiatrische Einrichtung am Stadtrand von [Kaltenstein]({{ "kaltenwiki/kaltenstein" | relative_url }}), das mindestens während der 80er-Jahre betrieben wurde. Heute ist das Gebäude teilweise verfallen und wird von [VITA]({{ "kaltenwiki/vita" | relative_url }}) als Versteck genutzt.
+Das **Ludwig-von-Kaltenstein-Sanatorium für Psychosomatik und Hysterie** war eine psychiatrische Einrichtung am Stadtrand von [Kaltenstein]({{ "kaltenwiki/kaltenstein" | relative_url }}), das bis 1982 betrieben wurde. Heute ist das Gebäude teilweise verfallen und wird von [VITA]({{ "kaltenwiki/vita" | relative_url }}) als Versteck genutzt.
 
 ## In den 80ern
 
@@ -32,10 +32,8 @@ Laut Krankenakte und Überweisung des Hofarztes litt Prinzessin Gloria an Halluz
 
 Glorias Einzelzimmer befand sich im zweiten Obergeschoss am Ende des Frauenflügels. Sie wurde dort geknebelt und in einer Zwangsjacke auf einem Stuhl fixiert. Jeden Abend um 20:30 kam Dr. Habert zur Visite. Als die Agenten des KGB sie fanden, wies Gloria Zeichen von [Apophis]({{ "kaltenwiki/apophis" | relative_url }})-Besessenheit auf. 
 
-Gloria zufolge gehört die [von-Kaltenstein-Familie]({{ "kaltenwiki/von_kaltenstein" | relative_url }}) dem [Apophis-Kult]({{ "kaltenwiki/apophis" | relative_url }}) an und plant, ihr Kind zu opfern, sobald es geboren ist. Es gebe einen Schlüssel aus dem Familienbesitz des [Haus Kaltenstein]({{ "kaltenwiki/von_kaltenstein" | relative_url }}), welcher sie befreien könne.
+Gloria zufolge gehört die [von-Kaltenstein-Familie]({{ "kaltenwiki/von_kaltenstein" | relative_url }}) dem [Apophis-Kult]({{ "kaltenwiki/apophis" | relative_url }}) an und plant, ihr Kind zu opfern, sobald es geboren ist. Es gebe einen Schlüssel aus dem Familienbesitz des [Haus Kaltenstein]({{ "kaltenwiki/von_kaltenstein" | relative_url }}), welcher sie befreien könne. Die Details ihrer Flucht bleiben im Verborgenen; allerdings ist anzunehmen, dass diese Ereignisse die Ursache für die Schließung des Sanatoriums 1982 waren. 
 
-...
-
-## Heute
+## In der Gegenwart
 
 Die Verbrecherorganisation [VITA]({{ "kaltenwiki/vita" | relative_url }}) entführte [Tatjana Trawnikowa]({{ "kaltenwiki/theresa" | relative_url }}) aus dem Taylor-Anwesen und brachte sie hierher. Zur Bewachung wurden mehrere Schwerbewaffnete mit Schlangentattoos abgestellt.
