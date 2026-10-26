@@ -22,7 +22,7 @@ Sämtliche leitende Ärzte folgen der psychoanalytischen Schule. Bekannte Mitarb
 Prinzessin [Gloria von Kaltenstein]({{ "kaltenwiki/gloria_vk" | relative_url }}) saß 1982 gegen ihren Willen in Isolation im Sanatorium ein. Betreut wurde sie von Dr. Habert. Zum Zweck ihrer Befreiung wurden vier Agenten des KGB ins Sanatorium eingeschleust:
 
 * Warl Kesnov (sowjetischer Konsul in Kaltenstein). Deckidentität: Banach Steinhaus, Sekretär von Dr. Habert.
-* Marta Schukowa (Schüler-Austauschstudentin in der Physik). Deckidentität: Margarete Schulz, Pflegehilfe.
+* [Marta Schukowa]({{ "kaltenwiki/marta" | relative_url }}) (Schüler-Austauschstudentin in der Physik). Deckidentität: Margarete Schulz, Pflegehilfe.
 * [Tatjana Trawnikowa]({{ "kaltenwiki/theresa" | relative_url }}) (Schüler-Austauschstudentin in der Mathematik). Deckidentität: Theresa Olivia Schmidt, Pflegehilfe.
 * Peshka Wolkow (Kesnovs Assistent). Deckidentität: Kasimir Caltental, Küchenhilfe.
 

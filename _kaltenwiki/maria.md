@@ -13,7 +13,7 @@ Lamellicornia entstammt einer gutbürgerlichen Familie. Sie ist die Tochter von 
 
 ## Traumreisen
 
-Maria Lamellicornia ist durch Traumsequenzen mit [Koleoptera]({{ "kaltenwiki/alexandria" | relative_url }}) (Κολεόπτερα, 37 v. Chr.), [Maia Schneider]({{ "kaltenwiki/staatstheater" | relative_url }}) (1772) und *Marta Schukowa* (1982) verbunden.
+Maria Lamellicornia ist durch Traumsequenzen mit [Koleoptera]({{ "kaltenwiki/alexandria" | relative_url }}) (Κολεόπτερα, 37 v. Chr.), [Maia Schneider]({{ "kaltenwiki/staatstheater" | relative_url }}) (1772) und [Marta Schukowa]({{ "kaltenwiki/marta" | relative_url }}) (1982) verbunden.
 
 ## Eroberungen
 
@@ -21,4 +21,5 @@ Maria Lamellicornia ist durch Traumsequenzen mit [Koleoptera]({{ "kaltenwiki/ale
 * Mann auf Lamellicornia-Gartenparty
 * [Daniela Hitzkopf]({{ "kaltenwiki/lang_helix" | relative_url }})
 * Felix Weize (Biologie, [Universität Kaltenstein]({{ "kaltenwiki/uni_kaltenstein" | relative_url }}))
-* Ronja ([Polizei Kaltenstein]({{ "kaltenwiki/polizei" | relative_url }})
+* Ronja ([Polizei Kaltenstein]({{ "kaltenwiki/polizei" | relative_url }}))
+* Dennis (Mitglied bei [VITA]({{ "kaltenwiki/vita" | relative_url }}))
