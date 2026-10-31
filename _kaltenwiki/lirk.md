@@ -11,7 +11,7 @@ Denz besitzt übersinnliche Mediumsfähigkeiten, welche mit [Apophis]({{ "kalten
 
 ## Lebenslauf
 
-Denz' Herkunft ist nicht vollständig geklärt. Es gilt als gesichert, dass er in jungen Jahren unter dem Namen **Thierry** Mitglied einer französischen Verbrecherorganisation war. Bezugspersonen waren *Henry* (sein Mentor) sowie *Christian* und *Jacques*. Später wurde Henry von der Bande wegen Spionage zum Tode verurteilt; er gab außerdem zu, Thierrys Vater getötet zu haben. Laut Henry war Thierry der Grund, wieso er die Organisation verraten hat.
+Denz' Herkunft ist nicht vollständig geklärt. Es gilt als gesichert, dass er in jungen Jahren unter dem Namen **Thierry** Mitglied einer französischen Verbrecherorganisation war. Bezugspersonen waren *Henri* (sein Mentor) sowie *Christian* und *Jacques*. Später wurde Henry von der Bande wegen Spionage zum Tode verurteilt; er gab außerdem zu, Thierrys Vater getötet zu haben. Laut Henri war Thierry der Grund, wieso er die Organisation verraten hat.
 
 Zu einem späteren Zeitpunkt ließ Denz sein altes Leben zurück und sich mit der Hilfe von [Jonathan Taylor]({{ "kaltenwiki/theresa" | relative_url }}) in [Kaltenstein]({{ "kaltenwiki/kaltenstein" | relative_url }}) nieder. 
 

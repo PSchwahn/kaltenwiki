@@ -11,6 +11,6 @@ Gloria besitzt übersinnliche Fähigkeiten, welche mit [Apophis]({{ "kaltenwiki/
 
 In ihrer Krankenakte ist vermerkt, dass sie vom Hofarzt aufgrund von "Hysterie, Schizophrenie und seltsamen Verhaltensmustern" ans Sanatorium überwiesen wurde. Sie habe Halluzinationen und stelle eine Gefahr für ihre Umgebung dar. Kurz vor ihrer Internierung wandte Prinzessin Gloria sich an den KGB. Diesem gelang es, ihr zur Flucht zu verhelfen.
 
-1982 heiratete sie *Charles Éréane*, welcher am [Prekrasnaya-Institut]({{ "kaltenwiki/prekrasnaya_institut" | relative_url }}) promoviert wurde. Daraufhin verließen sie gemeinsam Kaltenstein und zogen nach Frankreich.
+1982 heiratete sie *Charles Éréane*, welcher am [Prekrasnaya-Institut]({{ "kaltenwiki/prekrasnaya_institut" | relative_url }}) bei *Prof. Hauser* promoviert wurde. Daraufhin verließen sie gemeinsam Kaltenstein und zogen nach Frankreich.
 
 Nachdem 1983 ihr Mann und ihr Kind bei einem Autounfall starben, nahm sich Gloria das Leben.

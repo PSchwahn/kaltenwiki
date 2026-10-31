@@ -35,7 +35,7 @@ Prekrasnayas persönlicher Nachlass unterlag strengster Geheimhaltung; nur ein k
 
 Insbesondere sollte gezielt vermieden werden, dass die [von-Kaltenstein-Familie]({{ "kaltenwiki/von_kaltenstein" | relative_url }}) Zugriff auf die Informationen im Archiv erhält.
 
-Im Archiv befanden sich Anzeichen von [Apophis]({{ "kaltenwiki/apophis" | relative_url }})-Magie und Schlangen-Schriftzeichen.
+Im Archiv befanden sich Anzeichen von [Apophis]({{ "kaltenwiki/apophis" | relative_url }})-Magie: Schlangen-Schriftzeichen in den Rahmen von vier Gemälden, welche Zeitgenossen von [Justus Aurelius von Kaltenstein]({{ "kaltenwiki/justus_aurelius_vk" | relative_url }}) zeigen. Die Schriftzeichen sollen die Wahrnehmung der Figuren beeinflussen (zum Guten oder Schlechten).
 
 Die damalige Sekretärin *Barbara Müller* wurde von einer unbekannten Partei, vermutlich [VITA]({{ "kaltenwiki/vita" | relative_url }}), als Informantin rekrutiert. 1982 vertraute sie sich Agenten des KGB an und gewährte ihnen Zutritt zum Archiv. Gleichzeitig wurde das Archiv von vier Männern in einem schwarzen Van überfallen. Bevor Müller fliehen konnte, wurde sie erschossen.
 

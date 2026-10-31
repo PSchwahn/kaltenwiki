@@ -6,7 +6,7 @@ place: true
 
 Das **Staatstheater Kaltenstein** wurde 1772 im Auftrag von [Ludwig von Kaltenstein]({{ "kaltenwiki/von_kaltenstein" | relative_url }}) erbaut. Es ist berühmt für seine von *Maia Schneider* erfundenen mechanischen Puppen, welche mittels Lochkarten programmiert werden können.
 
-Das Theater fasst etwa 50 Zuschauer. Auf und unter der Bühne befindet sich eine elaborierte Mechanik aus vielen Zahnrädern; bemerkenswert ist vor allem ein sehr großes gusseisernes Zahnrad.
+Das Theater fasst etwa 50 Zuschauer. Auf und unter der Bühne befindet sich eine elaborierte Mechanik aus vielen Zahnrädern; bemerkenswert ist vor allem ein sehr großes gusseisernes Zahnrad. Bei den Zahnrädern handelt es sich um [Apophis-Artefakte]({{ "kaltenwiki/apophis" | relative_url }}). Je nach Stellung treten verschiedene [Schlangenrunen]({{ "kaltenwiki/schrift_der_schlange" | relative_url }}) hervor.
 
 ## Geschichte
 

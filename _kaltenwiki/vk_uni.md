@@ -8,6 +8,8 @@ Die **Justus-Aurelius-von-Kaltenstein-Universität**, auch **von-Kaltenstein-Uni
 
 Der Schwerpunkt der von-Kaltenstein-Universität liegt im humanistischen, philosophischen und naturwissenschaftlichen Bereich. Die Universität versteht sich selbst als Eliteeinrichtung; jährlich werden nur rund 1100 Studierende eingeschrieben. Die *von-Kaltenstein-Stiftung* bietet Stipendien für das Studium an der von-Kaltenstein-Universität an.
 
+**Rektor**: Johann Parzival von Kaltenstein 
+
 ## Bekannte Persönlichkeiten
 
 * [Prof. Otto Lugs]({{ "kaltenwiki/luchs" | relative_url }}) (Ägyptologie)
